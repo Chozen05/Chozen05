@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Chozen05
+- 👋 Hi, I’m orion!
+- Currently working @hxrp
+- contact: orion#1111
 
 <!---
 Chozen05/Chozen05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
